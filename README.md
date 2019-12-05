@@ -1,5 +1,12 @@
 # nexus3
 
+## 启动参考
+
+```bash
+$ mkdir /some/dir/nexus-data && chown -R 200 /some/dir/nexus-data
+$ docker run -d -p 8081:8081 --name nexus -v /some/dir/nexus-data:/nexus-data sonatype/nexus3
+```
+
 ## github 地址
 
 - https://github.com/sonatype/docker-nexus3
