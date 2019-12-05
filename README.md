@@ -1,5 +1,9 @@
 # nexus3
 
+## images name
+
+- registry.cn-beijing.aliyuncs.com/meowbite/nexus3:3.19.1
+
 ## 启动参考
 
 ```bash
