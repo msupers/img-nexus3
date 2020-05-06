@@ -2,7 +2,7 @@
 
 ## images name
 
-- registry.cn-beijing.aliyuncs.com/meowbite/nexus3:3.19.1
+- registry.cn-beijing.aliyuncs.com/meowbite/nexus3:3.23.0
 
 ## 启动参考
 

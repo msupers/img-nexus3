@@ -1,1 +1,1 @@
-FROM sonatype/nexus3:3.19.1
+FROM sonatype/nexus3:3.23.0
